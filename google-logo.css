@@ -1,0 +1,22 @@
+.div{
+    width: 100px;
+    height: 100px;
+    /* background-color: red; */
+    border-radius:100px;
+    border-style:outset;
+    border-width: 30px;   
+    border-color: blueviolet;
+    border-top-color: rgb(253, 62, 62);
+    border-left-color: YELLOW;
+    border-top-color: rgb(253, 62, 62);
+    border-right-color: rgba(255, 255, 255, 0)  ;
+}
+.rec{
+    width: 80px;
+    height: 30px;
+    background-color: rgb(12, 12, 158);
+    border-top-right-radius: 100px;
+    position: relative;
+    bottom: 90px;
+    left: 75px;
+}
